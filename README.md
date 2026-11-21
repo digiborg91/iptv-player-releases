@@ -1,6 +1,6 @@
-# IPTV Player for Fire TV
+# Bout Ye TV
 
-A simple, ad-free IPTV player for the Amazon Fire TV Stick (and other Android TV boxes).
+Bout Ye TV is a simple, ad-free IPTV player for the Amazon Fire TV Stick (and other Android TV boxes).
 No ads, no analytics, no tracking.
 
 - Live TV by category, with a full TV guide (EPG) and now/next info
