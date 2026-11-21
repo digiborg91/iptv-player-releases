@@ -1,0 +1,35 @@
+# IPTV Player for Fire TV
+
+A simple, ad-free IPTV player for the Amazon Fire TV Stick (and other Android TV boxes).
+No ads, no analytics, no tracking.
+
+- Live TV by category, with a full TV guide (EPG) and now/next info
+- TV guide with the current channel still playing in the corner
+- Movies and Series with posters, resume, and search
+- Favourite channels and a "My list" for films and shows
+
+**You need your own IPTV subscription.** The app comes with no channels. Add your
+provider's Xtream Codes login (server, username, password) or an M3U playlist URL,
+plus an optional XMLTV guide URL.
+
+## Install on a Fire TV Stick
+
+1. On the Fire Stick, install **Downloader** (by AFTVnews) from the Amazon Appstore.
+2. Allow it to install apps: **Settings → My Fire TV → Developer options → Install unknown apps → Downloader → On**.
+   If you can't see *Developer options*, go to **Settings → My Fire TV → About**, select your device name
+   7 times, then go back.
+3. Open Downloader and enter this address:
+
+   ```
+   https://github.com/digiborg91/iptv-player-releases/releases/latest/download/IPTVPlayer.apk
+   ```
+
+4. Choose **Install**, then **Open**. You can delete the downloaded file afterwards when Downloader asks.
+5. In the app, choose **Add source** and enter your provider's details.
+
+The app then appears in **Your Apps & Channels**.
+
+## Updating
+
+Repeat step 3: the link always points to the newest version, and it installs over the old one
+keeping your sources and favourites.
