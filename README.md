@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="200" alt="Bout Ye TV"></p>
+
 # Bout Ye TV
 
 Bout Ye TV is a simple, ad-free IPTV player for the Amazon Fire TV Stick (and other Android TV boxes).
@@ -7,6 +9,9 @@ No ads, no analytics, no tracking.
 - TV guide with the current channel still playing in the corner
 - Movies and Series with posters, resume, and search
 - Favourite channels and a "My list" for films and shows
+- Live Sport: matches on now and coming up, picked out of your TV guide
+- Press OK while watching for recently watched channels, quality, audio, subtitles and a sleep timer
+- Reminders: press OK on a programme in the guide and get a nudge when it starts
 
 **You need your own IPTV subscription.** The app comes with no channels. Add your
 provider's Xtream Codes login (server, username, password) or an M3U playlist URL,
